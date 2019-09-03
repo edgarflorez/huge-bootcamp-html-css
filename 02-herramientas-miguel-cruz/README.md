@@ -21,3 +21,18 @@
 
 ## Miscelaneus tools
 1. [Firefox Quantum](https://www.mozilla.org/en-US/firefox/developer/)
+2. [ngrok - local server](https://ngrok.com/)
+3. [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+4. [Pixel perfect](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en)
+5. [Form filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=en)
+
+## Working with designers
+1. [Sketch](https://www.sketch.com/)
+2. [InvisionApp](https://www.invisionapp.com/)
+3. [Zeplin](https://zeplin.io)
+
+# GIT
+Version control system
+
+
+
