@@ -22,7 +22,7 @@ Distributed Version Control System
 
 - `hash` or `sha` : unique id for a commit
 
-## Commands
+## Commands git
 - `git init`    : initialize a repo
 - `git status` : Allow us to see the actual status of our local repository
 - `git add .`   : Add all the unstaged files to stage
@@ -30,6 +30,11 @@ Distributed Version Control System
 - `git push origin master` : Push your staged changes from local to the remote repo
 - `git pull origin master` : bring remote changes to local
 - `git clone https://github.com/....` : Make a clone of the remote repo into the current folder, creates a connections by default.
+
+## Commands Terminal
+- `mkdir new-folder-name` : Create a new folder.
+- `cd new-folder-name` : enter to a folder.
+- `ls` : List the folders in the current position.
 
 ## links
 - [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
