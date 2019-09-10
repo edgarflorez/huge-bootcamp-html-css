@@ -5,3 +5,7 @@
 - Git - very fast and increase window is kind small even on YT 
 - Git - maybe the two repo practice was confused and quite fast.
 - Git - Visual Studio it looks small
+
+## session Johan htlml forms
+- At the begining there were a moment of silence on the setup.
+- 

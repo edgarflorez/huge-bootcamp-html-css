@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <form method="GET" action="./results.html" autocomplete="on">
+
+        <label for="username2">Username</label>
+        <input id="username2" name="username" type="text" autocomplete="off" placeholder="username" minlength="2"
+            maxlength="8">
+
+        <br>
+
+        <label for="useremail">User Email</label>
+        <input id="useremail" name="usermail" type="email" autofocus required>
+
+        <label for="years">Years</label>
+        <input id="years" name="years" type="number">
+
+        <label for="userPassword">User Password</label>
+        <input id="userPassword" name="userPassword" type="password" placeholder="use letters and symbols">
+
+        <label for="birthday">User birthday</label>
+        <input type="date" min="1900-01-01" max="2012-01-01" required>
+
+        <div>
+            <label for="userFavBrowser">
+                Your favorite browser
+            </label>
+            <input id="userFavBrowser" type="text" list="browsers">
+            <datalist id="browsers">
+                <option value="chrome">
+                <option value="safari">
+                <option value="ie">
+                <option value="Opera">
+            </datalist>
+        </div>
+
+        <input type="hidden" name="campaign" value="campaign_category">
+
+        <br>
+
+        <input type="text" name="disabled" value="Hi" disabled>
+        <input type="text" name="readonly" value="huge" readonly>
+
+
+        <input type="submit" value="Enviar">
+    </form>
+    <!-- <form action="GET" action="./results.html" autocomplete="on">
+
+        <div>
+            <label for="user">User</label>
+            <input id="user" name="user" type="text">
+        </div>
+
+        <label> Name
+            <input name="name" type="text">
+        </label>
+
+        <div>
+            <label for="date">Date</label>
+            <input id="date" name="date" type="date">
+        </div>
+        <input type="submit" required>
+    </form> -->
+</body>
+
+</html>
