@@ -40,9 +40,17 @@
     pattern, regex
 
 ## Mailing tools
+- Google forms
 - formkeep
 - netlify
 - Formspree
+
+## Can I Use
+- [HTML5 Form Features](https://caniuse.com/#search=form%20features)
+- [Color input type](https://caniuse.com/#feat=input-color)
+- [Range Input type](https://caniuse.com/#feat=input-range)
+- [Number Input Type](https://caniuse.com/#feat=input-number)
+- [Date and time input types](https://caniuse.com/#feat=input-datetime)
 
 ## Practice
 Crear un formulario para el proyecto de cv con los siguientes parámetros:
@@ -53,7 +61,6 @@ Solicitar datos que ayuden a conocer a la persona que quiere contactarse con ust
 El formulario debe tener la funcionalidad mínima para que llegue al correo, utilizando cualquier servicio mencionado en la clase.
 
 Boom se hizo chocapic!
-
 
 ## Links
 [Semantic Web form and HTML5 inputs | johan codepen.io](https://codepen.io/johaneto/pen/ExYWvRY)
