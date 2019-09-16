@@ -37,6 +37,12 @@
 
 [The Open Graph protocol](https://ogp.me/)
 
+[Placeholder images](https://placeholder.com/)
+
+[Icon Monster](https://iconmonstr.com/)
+
+[HTML Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
+
 
 ## Sections Tags
 
