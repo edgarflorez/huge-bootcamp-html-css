@@ -5,23 +5,31 @@
    1. Used by screen readers
    2. Use a valid languge
 2. Title Tag
-   1. Primary - Secondary | Brand Name
-   2. 512px 50-70 ch
-   3. Unique
-3. Meta Description Tag
-   1. Under 155 cr
-   2. NO no-alpha chr % & $
-4. Header Tags
-   1. h1 - use a keyword
-5. Image
-   1. use alt
-   2. relevant keywords
-   3. use dash for naming.
-6. Hyperlink
+   1. `<title>SEO Talk - Bootcamp HTML CSS 2019 | Huge inc</title>`
+   2. Primary - Secondary | Brand Name
+   3. 512px 50-70 ch
+   4. Unique
+3. Write the body>main>article block
+4. Meta Description Tag
+   1. `<meta name="description" content="...">`
+   2. Under 155 cr
+   3. NO no-alpha chr % & $
+5. Header Tags
+   1. `<h1>Bootcamp Huge, Let's talk about SEO</h1>`
+   2. h1 - use a keyword
+   3. Use H1 tags on pages you are trying to drive unique traffic to (SEO page)
+   4. Use H2 tags if there are multiple sections
+6. Image
+   1. ***** INSERT 2 p and between them the image *****
+   2. `<img width="150px" src="./images/session-seo-bootcamp-huge-2019.jpg" alt="Huge Bootcamp SEO">`
+   3. use alt
+   4. relevant keywords
+   5. use dash for naming.
+7. Hyperlink
    1. nofollow paid or untrusted content
    2. Images alt serves as anchor
    3. Internal links
-7. Social Metadata
+8. Social Metadata
    1. Allows you to control how your content is going to be shared.
    2. image
    3. Title
