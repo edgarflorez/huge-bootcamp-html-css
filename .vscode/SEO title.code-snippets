@@ -48,5 +48,21 @@
     "prefix": "seo-image-alt",
     "body": ["Huge Bootcamp SEO"],
     "description": "insert image alt attribute"
+  },
+  "SEO links": {
+    "scope": "html",
+    "prefix": "seo-links",
+    "body": [
+      "<a href='https://www.example.com/webpage.html'>Keyword in AnchorText</a><a href='https: //www.example.com/webpage.html' rel='nofollow' target='_blank'>Keyword in Anchor Text</a><a href='https: //www.example.com/webpage.html'><img src='/img/keyword.jpg' alt='keyword' width='100' height='100'></a><p>Agradecemos sus dejar sus comentarios en<a href='./feedback-seo-session.html'>Feedback SEO, Bootcamp Huge 2019</a>.</p>"
+    ],
+    "description": "insert link stub"
+  },
+  "SEO keywords": {
+    "scope": "html",
+    "prefix": "seo-keywords",
+    "body": [
+      "<meta name='keywords' content='Hey, Cool, Huge, SEO rocks, SEO, White Hat, Food, Ranking your page, Google Best ENGINE Ever'>"
+    ],
+    "description": "insert keywords stub"
   }
 }

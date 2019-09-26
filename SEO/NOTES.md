@@ -3,7 +3,7 @@
 ## Live code
 1. HTML Lang attribute
    1. Used by screen readers
-   2. Use a valid languge
+   2. Use a valid language (ISO Language Code).
 2. Title Tag
    1. `<title>SEO Talk - Bootcamp HTML CSS 2019 | Huge inc</title>`
    2. Primary - Secondary | Brand Name
@@ -26,9 +26,10 @@
    4. relevant keywords
    5. use dash for naming.
 7. Hyperlink
-   1. nofollow paid or untrusted content
-   2. Images alt serves as anchor
-   3. Internal links
+   1. ***** CREATE a section and paste links *****
+   2. nofollow paid or untrusted content
+   3. Images alt serves as anchor
+   4. Internal links
 8. Social Metadata
    1. Allows you to control how your content is going to be shared.
    2. image
