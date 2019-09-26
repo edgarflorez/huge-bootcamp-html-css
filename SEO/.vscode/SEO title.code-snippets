@@ -1,0 +1,76 @@
+{
+  // Place your Bootcamp-html-css workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and
+  // description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope
+  // is left empty or omitted, the snippet gets applied to all languages. The prefix is what is
+  // used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+  // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders.
+  // Placeholders with the same ids are connected.
+  // Example:
+  // "Print to console": {
+  // 	"scope": "javascript,typescript",
+  // 	"prefix": "log",
+  // 	"body": [
+  // 		"console.log('$1');",
+  // 		"$2"
+  // 	],
+  // 	"description": "Log output to console"
+  // }
+  "SEO write title": {
+    "scope": "html",
+    "prefix": "seo-title",
+    "body": ["SEO Talk - Bootcamp HTML CSS 2019 | Huge inc"],
+    "description": "write down title"
+  },
+  "SEO Description": {
+    "scope": "html",
+    "prefix": "seo-description",
+    "body": [
+      "This talk looks to share some good practices about SEO, understand why is important to make our content visible to the Search engines"
+    ],
+    "description": "write down description"
+  },
+  "SEO Heading 1": {
+    "scope": "html",
+    "prefix": "seo-heading-1",
+    "body": ["Bootcamp Huge, Let's talk about SEO"],
+    "description": "write down heading 1"
+  },
+  "SEO image": {
+    "scope": "html",
+    "prefix": "seo-image",
+    "body": [
+      "<img width='150px' src='./images/seo-session-bootcamp-huge-2019.jpg' alt='Huge Bootcamp SEO'>"
+    ],
+    "description": "insert image tag"
+  },
+  "SEO image alt": {
+    "scope": "html",
+    "prefix": "seo-image-alt",
+    "body": ["Huge Bootcamp SEO"],
+    "description": "insert image alt attribute"
+  },
+  "SEO links": {
+    "scope": "html",
+    "prefix": "seo-links",
+    "body": [
+      "<a href='./feedback-seo-session.html'>Internal link to feeback</a><br><a href='https: //www.hugeinc.com/contact' rel='nofollow' target='_blank'>I want to contact Huge</a><br><a href='https: //www.hugeinc.com/us'><img src='./images/huge-logo.jpg' alt='keyword' width='100' height='100'></a><br><p>Agradecemos sus dejar sus comentarios en <a href='./feedback-seo-session.html'>Feedback SEO, Bootcamp Huge 2019</a>.</p>"
+    ],
+    "description": "insert link stub"
+  },
+  "SEO keywords": {
+    "scope": "html",
+    "prefix": "seo-keywords",
+    "body": [
+      "<meta name='keywords' content='Hey, Cool, Huge, SEO rocks, SEO, White Hat, Food, Ranking your page, Google Best ENGINE Ever'>"
+    ],
+    "description": "insert keywords stub"
+  },
+  "SEO open graph": {
+    "scope": "html",
+    "prefix": "seo-open-graph",
+    "body": [
+      " <!-- Open Graph data --> <meta property='og:title' content='SEO Talk - Bootcamp HTML CSS 2019 | Huge inc' /> <meta property='og:type' content='article' /> <meta property='og:url' content='http://www.hugeinc.com' /> <meta property='og:image' content='https://images.contentful.com/fiz3jwws2um7/2wJxuMrVhGAo6cYaYWoQAC/b325d641e66f15ac7bc02b565d0a200b/hello.jpg' /> <meta property='og:description' content='This talk looks to share some good practices about SEO, understand why is important to make our content visible to the Search engines' /> <meta property='og:site_name' content='Huge inc' /> <meta property='fb:app_id' content='308829332568918' /> <!-- Twitter Card data --> <meta name='twitter:card' content='summary'> <meta name='twitter:site' content='@hugeinc'> <meta name='twitter:title' content='SEO Talk - Bootcamp HTML CSS 2019 | Huge inc'> <meta name='twitter:description' content='This talk looks to share some good practices about SEO, understand why is important to make our content visible to the Search engines'> <meta name='twitter:creator' content='@hugeinc'> <!-- Twitter Summary card images must be at least 120x120px --> <meta name='twitter:image' content='https://images.contentful.com/fiz3jwws2um7/2wJxuMrVhGAo6cYaYWoQAC/b325d641e66f15ac7bc02b565d0a200b/hello.jpg'>"
+    ],
+    "description": "insert open graph stub"
+  }
+}

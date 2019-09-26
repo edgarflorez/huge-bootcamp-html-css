@@ -35,6 +35,10 @@
    2. image
    3. Title
    4. Description
+9. TOOLS
+   1.  Moz bar
+   2.  Open Graph preview
+   3.  AXE
 
 
 
